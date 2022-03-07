@@ -15,11 +15,11 @@ Organize product name in the correct format
 ###### Step 5. Extracting Feature (e.g. quantity)
 
 ## OUTPUT
-  ![image](https://user-images.githubusercontent.com/66462812/157019760-bf4f6287-c16e-47b3-8263-062c136589f5.png)
+  ![image](https://user-images.githubusercontent.com/66462812/157100380-815ae5f0-6862-492a-b068-de275ba73019.png)
   
-  ![image](https://user-images.githubusercontent.com/66462812/157019904-9e949209-7f4b-4955-ab4f-10f048a13ecf.png)
+  ![image](https://user-images.githubusercontent.com/66462812/157100058-4159bab2-e439-47e3-a9a9-b0db96ae1a9f.png)
   
-  ![image](https://user-images.githubusercontent.com/66462812/157028842-cb9f8996-9b81-4a0e-8be2-0d319527f47e.png)
+  ![image](https://user-images.githubusercontent.com/66462812/157100427-db9a8b75-aa7c-4933-9639-cbace567bcaa.png)
   
 ## Dependencies
 
