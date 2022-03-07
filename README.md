@@ -15,7 +15,7 @@ Organize product name in the correct format
 ###### Step 5. Extracting Feature (e.g. quantity)
 
 ## OUTPUT
-  ![image](https://user-images.githubusercontent.com/66462812/157100380-815ae5f0-6862-492a-b068-de275ba73019.png)
+  ![image](https://user-images.githubusercontent.com/66462812/157102264-edbbba92-4193-40da-bc48-948cc6f2c21d.png)
   
   ![image](https://user-images.githubusercontent.com/66462812/157100058-4159bab2-e439-47e3-a9a9-b0db96ae1a9f.png)
   
