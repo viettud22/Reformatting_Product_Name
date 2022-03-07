@@ -19,7 +19,7 @@ Organize product name in the correct format
   
   ![image](https://user-images.githubusercontent.com/66462812/157019904-9e949209-7f4b-4955-ab4f-10f048a13ecf.png)
   
-  ![image](https://user-images.githubusercontent.com/66462812/157020124-c9f69ee5-3977-485c-ab86-ee6384643bdf.png)
+  ![image](https://user-images.githubusercontent.com/66462812/157028842-cb9f8996-9b81-4a0e-8be2-0d319527f47e.png)
   
 ## Dependencies
 
